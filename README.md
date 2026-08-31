@@ -1,1 +1,1 @@
-databricks-assets-bundle
+Databricks Assets Bundle
